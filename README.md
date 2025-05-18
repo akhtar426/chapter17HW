@@ -1,1 +1,1 @@
-This is the 2nd question for homework #12. 
+These are questions 2 and 3 for the HW#12 assignment. The program "Connect_books" is what I did for question number 2. The program "exercise17_1" is the exercise problem we were told to do for question number 3. I made a text output file for both programs, so you can easily see the output. 
