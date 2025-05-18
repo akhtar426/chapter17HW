@@ -1,0 +1,41 @@
+=== 1. Authors’ Last Names (Descending) ===
+     last
+0    Wald
+1   Quirk
+2  Deitel
+3  Deitel
+4  Deitel
+
+=== 2. Book Titles (Ascending) ===
+                              title
+0         Android 6 for Programmers
+1            Android How to Program
+2                  C How to Program
+3                C++ How to Program
+4     Internet & WWW How to Program
+5     Intro to Python for CS and DS
+6               Java How to Program
+7  Visual Basic 2012 How to Program
+8          Visual C# How to Program
+9         Visual C++ How to Program
+
+=== 3. Books by Paul Deitel ===
+                              title copyright        isbn
+0         Android 6 for Programmers      2016  0134289366
+1            Android How to Program      2017  0134444302
+2                  C How to Program      2016  0133976890
+3                C++ How to Program      2017  0134448235
+4     Internet & WWW How to Program      2012  0132151006
+5     Intro to Python for CS and DS      2020  0135404673
+6               Java How to Program      2018  0134743350
+7  Visual Basic 2012 How to Program      2014  0133406954
+8          Visual C# How to Program      2017  0134601548
+9         Visual C++ How to Program      2008  0136151574
+
+=== 4. Inserted/Found Lena Gray with ID = 13 ===
+
+
+=== 5. Lena Gray’s Book ===
+Empty DataFrame
+Columns: [title, copyright, isbn]
+Index: []
